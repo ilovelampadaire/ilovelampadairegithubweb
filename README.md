@@ -1,2 +1,17 @@
 # ilovelampadairegithubweb
 My website!
+
+
+
+# Is that really your website?
+
+Yes!
+
+
+# Did you used html/css
+
+Not really css but html, yes
+
+# How long do you work on your website per days or per weeks?
+
+Around 9 or 10 hours a week but a day, it around 2 or 3hours
